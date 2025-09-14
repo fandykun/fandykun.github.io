@@ -2,11 +2,11 @@
 name: Fandy Kuncoro
 title: Fandy Kuncoro
 description: Fandy Kuncoro's Portfolio
-url: https://fandykun.pages.dev/
+url: https://fandykun.github.io/
 baseurl: ''
 email: fandy.kuncoro@gmail.com
-cover: https://fandykun.pages.dev/img/og.png
-logo: https://fandykun.pages.dev/img/close-up.png
+cover: https://fandykun.github.io/img/og.png
+logo: https://fandykun.github.io/img/close-up.png
 icon: 
 social:
   - title: email

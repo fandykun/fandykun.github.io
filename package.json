@@ -10,7 +10,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
-    "build": "gulp build"
+    "build": "npx gulp build"
   },
   "author": "Fandy Kuncoro",
   "license": "ISC",
