@@ -1,33 +1,27 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: JavaScript
+  - item: Go
   - item: Python
-  - item: SQL
-  - item: R
+  - item: C++
+  - item: PHP
+  - item: TypeScript
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: Node.js
+  - item: Express
   - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Gin
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Docker
+  - item: Git
+  - item: Linux
+  - item: Kafka
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+databases:
+  - item: MongoDB
+  - item: MySQL
+  - item: SQLServer
+  - item: Elasticsearch
+  - item: Redis
+  - item: GraphQL

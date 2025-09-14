@@ -1,0 +1,29 @@
+- name: Mobile Apps Development Computerun 2020
+  place: 3rd Place
+  time: January 2021
+  description: A Mobile Application Development held by Binus University followed by more than 100 teams in Indonesia. We won this competition and finished as 3rd Place. We have implemented face recognition as part of problem-solving cases.
+  tag:
+    - thing: Android
+    - thing: Java
+    - thing: Python
+    - thing: AI
+
+- name: Indonesia Robot Contest 2019 & 2020
+  place: 1st Place
+  time: May 2019 & November 2020
+  description: A National Robot Contest held by the Ministry of Research, Technology, and Higher Education followed by a lot of top universities in Indonesia. Finished as 1st Place in a wheeled robot soccer competition.
+  tag:
+    - thing: Robotics
+    - thing: C++
+    - thing: Socket
+    - thing: Computer Vision
+
+- name: 2018 Asia Jakarta - Indonesia National Contest
+  place: Top 16 Teams
+  time: October 2018
+  description: A national programming contest that serves as the online preliminary round for Indonesian teams to qualify for the ACM-ICPC Asia Jakarta Regional Contest.
+  tag:
+    - thing: Competitive Programming
+    - thing: C++
+    - thing: Algorithms
+
